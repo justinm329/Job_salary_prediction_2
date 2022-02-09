@@ -1,0 +1,40 @@
+vectorizer - min_df = .05
+rows = 3000
+n_estimators= 1000, min_samples_split = 3, min_samples_leaf=1, max_features= "sqrt", 
+max_depth = 20
+Train score: 0.8080077222806213
+Test score: 0.2984625739761646
+MSE = 13081
+
+vectorizer - min_df = .05
+rows = 3000
+n_estimators= 1500 , min_samples_split = 3 , min_samples_leaf= 1, max_features= "sqrt", 
+max_depth = 25
+Train score: 0.8367086257785328
+Test score: 0.2983423059941067
+MSE = 13082
+
+vectorizer - min_df = .03
+rows = 3000
+n_estimators= 1500 , min_samples_split = 3 , min_samples_leaf= 1, max_features= "sqrt", 
+max_depth = 15
+Train score: 0.7325920435236175
+Test score: 0.29522645545433757
+MSE = 13111
+
+vectorizer - min_df = .02
+rows = 3500
+n_estimators= 1000 , min_samples_split = 3 , min_samples_leaf= 1, max_features= "sqrt", 
+max_depth = 30
+Train score: 0.8488244397174839
+Test score: 0.29871692401595895
+MSE = 13078
+
+
+vectorizer - min_df = .02
+rows = 3500
+n_estimators= 2000 , min_samples_split = 3 , min_samples_leaf= 1, max_features= "sqrt", 
+max_depth = 30
+Train score: 0.8488244397174839
+Test score: 0.29871692401595895
+MSE = 13067
