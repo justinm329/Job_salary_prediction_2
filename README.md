@@ -13,14 +13,23 @@ https://www.kaggle.com/c/job-salary-prediction
 ## Technology Used
 
 -[Numpy](https://numpy.org/)
+
 -[Pandas](https://pandas.pydata.org/)
+
 -[Sklearn](https://scikit-learn.org/stable/)
+
 -[Matpolitlib](https://matplotlib.org/)
+
 -[NLTK](https://www.nltk.org/)
+
 -[WordNetLemmatizer](https://www.kite.com/python/docs/nltk.WordNetLemmatizer)
+
 -[CountVectorizer](https://scikit-learn.org/stable/modules/generated/sklearn.feature_extraction.text.CountVectorizer.html)
+
 -[MinMaxScaler](https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.MinMaxScaler.html?highlight=minmax%20scaler#sklearn.preprocessing.MinMaxScaler)
+
 -[TensorFlow](https://www.tensorflow.org/api_docs)
+
 -[Keras](https://faroit.com/keras-docs/1.2.0/)
 
 
